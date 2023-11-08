@@ -37,6 +37,8 @@ For this case, I'm using BigQuery, so I also set up a **service account**.
 `dbt docs serve`: to view the documentation in local browser.
 
 
+![](snapshots/dbt-overview.png)
+
 
 ---
 #### Resources:
