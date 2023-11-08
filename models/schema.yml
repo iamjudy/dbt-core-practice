@@ -1,0 +1,9 @@
+version: 1
+
+models:
+  - name: overview
+    columns:
+      - name: product_name
+        tests:
+          - unique
+          - not_null
